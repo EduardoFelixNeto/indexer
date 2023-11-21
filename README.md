@@ -1,4 +1,11 @@
 Indexer
+
+1 - GRR20221082; Camila Isabella Verssão; camila.verssao@gmail.com
+
+2 - GRR20204455; Daphne Spier Moreira Alves; daphnespier@gmail.com
+
+3 - GRR20206129; Eduardo Félix da Silva Neto; eduardofelix@ufpr.br
+
 Indexer é uma ferramenta de linha de comando escrita em Java que permite indexar arquivos de texto, recuperar as palavras mais frequentes de um arquivo e classificar arquivos por relevância para um termo de pesquisa usando TF-IDF.
 
 Pré-requisitos
